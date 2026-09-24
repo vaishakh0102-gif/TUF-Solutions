@@ -1,0 +1,28 @@
+class Solution{
+    private:
+    int subset(int ind,int target,vector<int>& nums,int sum){
+        int n=nums.size();
+        if(ind==n){
+            if (sum==target){
+                return 1;
+            }
+            return 0;
+        }
+
+ 
+        sum+=nums[ind];
+        int left=subset(ind+1,target,nums,sum);
+        sum-=nums[ind];
+       
+        int right= subset(ind+1,target,nums,sum);
+        return left+right;
+    }
+    public:
+    int countSubsequenceWithTargetSum(vector<int>& nums, int k) {
+        
+        
+        return subset(0,k,nums,0);
+
+        
+    }
+};
