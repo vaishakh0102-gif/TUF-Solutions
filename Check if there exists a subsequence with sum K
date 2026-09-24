@@ -1,0 +1,28 @@
+class Solution{
+    private:
+    bool subset(int ind,int target,vector<int>& nums,int sum){
+        int n=nums.size();
+        if(ind==n){
+            if (sum==target){
+                return true;
+            }
+            return false;
+        }
+
+ 
+        sum+=nums[ind];
+        if (subset(ind+1,target,nums,sum)==true)return true;
+        sum-=nums[ind];
+       
+        if (subset(ind+1,target,nums,sum)==true)return true;
+        return false;
+    }
+    public:
+    bool checkSubsequenceSum(vector<int>& nums, int k) {
+        
+        
+        return subset(0,k,nums,0);
+
+        
+    }
+};
