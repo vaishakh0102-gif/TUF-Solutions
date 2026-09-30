@@ -6,13 +6,17 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-09-30` |
+| **1** | 0 | 1 | 0 | `2026-09-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-No problems synced yet.
+### DSA (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 
 ---
 
