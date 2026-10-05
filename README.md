@@ -6,20 +6,21 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 0 | 4 | 0 | `2026-10-04` |
+| **5** | 0 | 5 | 0 | `2026-10-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (4)
+### DSA (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [901. Deletion of the head of LL](./DSA/Linked-List/deletion-of-the-head-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0002 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
-| 0003 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
-| 0004 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0002 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0003 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
+| 0004 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
+| 0005 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 
 ---
 
