@@ -21,7 +21,7 @@
 | 0003 | [892. Delete Tail of Doubly Linked List](./DSA/General/delete-tail-of-dll) | [CPP](./DSA/General/delete-tail-of-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
 | 0004 | [891. Delete the element with value X](./DSA/General/delete-the-element-with-value-x) | [CPP](./DSA/General/delete-the-element-with-value-x/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
 | 0005 | [901. Deletion of the head of LL](./DSA/Linked-List/deletion-of-the-head-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-03` |
-| 0006 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0006 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
 | 0007 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
 | 0008 | [998. Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [CPP](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
 | 0009 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |

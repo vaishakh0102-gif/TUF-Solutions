@@ -13,7 +13,7 @@ class ListNode{
 class Solution {
     public:
         ListNode* deleteKthNode(ListNode* &head, int k) {
-            if(head==NULL)return NULL;
+            if(head==NULL || head->next ==NULL)return NULL;
             if(k==1){
                 ListNode* temp=head;
                 head=head->next;
