@@ -15,16 +15,32 @@ class ListNode
 class Solution {
 public:
     ListNode *deleteTail(ListNode *&head) {
-        if(head==NULL || head->next == NULL)return NULL;
-        ListNode *temp=head;
-        while(temp->next->next!=NULL){
-            temp=temp->next;
+        // if(head==NULL || head->next == NULL)return NULL;
+        // ListNode *temp=head;
+        // while(temp->next->next!=NULL){
+        //     temp=temp->next;
 
+        // }
+        // temp->next=nullptr;
+        // free (temp->next);
+        // return head;
+        if (head == nullptr || head->next == nullptr) {
+            return nullptr;
         }
-        temp->next=nullptr;
-        free (temp->next);
-        return head;
 
+        ListNode* tail = head;
+        while (tail->next != nullptr) {
+            tail = tail->next;
+        }
+
+        ListNode* move= tail->prev;
+        move->next = nullptr;
+        tail->prev = nullptr;
+
+        delete tail; 
+        return head;
+        
+        
 
         // Your code goes here
     }
