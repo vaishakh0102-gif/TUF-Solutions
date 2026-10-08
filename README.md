@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 0 | 20 | 0 | `2026-10-08` |
+| **21** | 0 | 21 | 0 | `2026-10-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (20)
+### DSA (21)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -25,17 +25,18 @@
 | 0007 | [905. Deletion of the Kth element of Linked List](./DSA/Linked-List/deletion-of-the-kth-element-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-kth-element-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
 | 0008 | [914. Deletion of the tail of Linked List](./DSA/Linked-List/deletion-of-the-tail-of-ll) | [CPP](./DSA/Linked-List/deletion-of-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-04` |
 | 0009 | [998. Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [CPP](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0010 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
-| 0011 | [971. Insert node before (kth node) in Doubly Linked List](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0012 | [985. Insert node before tail in Doubly Linked List](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
-| 0013 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0014 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0015 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0016 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [CPP](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0017 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0018 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
-| 0019 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0020 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0010 | [927. Insert before given node in Doubly Linked List](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0011 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
+| 0012 | [971. Insert node before (kth node) in Doubly Linked List](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0013 | [985. Insert node before tail in Doubly Linked List](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
+| 0014 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0015 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0016 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0017 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [CPP](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0018 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0019 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
+| 0020 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0021 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 
 ---
 
