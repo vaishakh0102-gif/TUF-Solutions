@@ -16,7 +16,7 @@ class Solution {
 public:
     void insertBeforeGivenNode(ListNode* node, int X) {
         ListNode *back=node->prev;
-        ListNode *front=node->next;
+        
         ListNode *temp=new ListNode(X,back,node);
         back->next=temp;
         node->prev=temp;
