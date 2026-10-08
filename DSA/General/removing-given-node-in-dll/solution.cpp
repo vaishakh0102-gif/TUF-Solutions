@@ -44,7 +44,7 @@ public:
         }
         back->next=front;
         front->prev=back;
-        node->next=node->prev=nullptr;
+        node->next=nullptr;
         return;
 
 
