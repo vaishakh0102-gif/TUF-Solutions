@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 0 | 23 | 0 | `2026-10-13` |
+| **24** | 0 | 24 | 0 | `2026-10-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (23)
+### DSA (24)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -38,7 +38,8 @@
 | 0020 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-09` |
 | 0021 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
 | 0022 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0023 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0023 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
+| 0024 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 
 ---
 
