@@ -25,16 +25,7 @@ struct ListNode
 class Solution {
 public:
     ListNode* middleOfLinkedList(ListNode* head) {
-        // if(head==NULL || head->next==NULL)return head;
-        // ListNode* temp = head;
-        // ListNode *fast=temp->next->next;
-        // ListNode *slow=temp->next;
-        // while(fast!=NULL && fast->next!=NULL){
-        //     fast=fast->next->next;
-        //     slow=slow->next;
-            
-        // }
-        // return slow;
+        //brute Solution
         int count = 0;
         ListNode* temp = head;
 
