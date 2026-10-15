@@ -26,7 +26,7 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         // Iterative approach
-        unordered_map<ListNode*, int> mpp;
+        unordered_map<ListNode*, int> mpp; //remember we store the entire node or we can say memory loc of tht node in map bcz to avoid the issue caused by duplicates 
         ListNode* temp = head;
 
         while (temp != nullptr) {
