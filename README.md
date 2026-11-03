@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **37** | 0 | 37 | 0 | `2026-11-02` |
+| **38** | 0 | 38 | 0 | `2026-11-03` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (37)
+### DSA (38)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -49,10 +49,11 @@
 | 0031 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
 | 0032 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-18` |
 | 0033 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0034 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
-| 0035 | [124. Sort LL](./DSA/Linked-List/sort-ll) | [CPP](./DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-20` |
-| 0036 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
-| 0037 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0034 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [CPP](./DSA/Bit-Manipulation/single-number---ii/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-03` |
+| 0035 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
+| 0036 | [124. Sort LL](./DSA/Linked-List/sort-ll) | [CPP](./DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-20` |
+| 0037 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
+| 0038 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 
 ---
 
