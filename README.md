@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **49** | 0 | 49 | 0 | `2026-11-12` |
+| **49** | 0 | 49 | 0 | `2026-11-14` |
 
 ---
 
@@ -53,7 +53,7 @@ POTD](./DSA/Stack-Queue/implement-queue-using-arrays) | [CPP](./DSA/Stack-Queue/
 | 0034 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-06` |
 | 0035 | [769. Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [CPP](./DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-16` |
 | 0036 | [133. N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [CPP](./DSA/Greedy/n-meetings-in-one-room/solution.cpp) | ⚪ Unspecified | `Greedy` | `2026-11-07` |
-| 0037 | [102. Next Greater Element](./DSA/General/next-greater-element) | [CPP](./DSA/General/next-greater-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-12` |
+| 0037 | [102. Next Greater Element](./DSA/General/next-greater-element) | [CPP](./DSA/General/next-greater-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-14` |
 | 0038 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [CPP](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-02` |
 | 0039 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
 | 0040 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
