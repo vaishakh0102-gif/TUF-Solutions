@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **53** | 0 | 53 | 0 | `2026-11-16` |
+| **54** | 0 | 54 | 0 | `2026-11-17` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (53)
+### DSA (54)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -67,9 +67,10 @@ POTD](./DSA/Stack-Queue/implement-queue-using-arrays) | [CPP](./DSA/Stack-Queue/
 | 0048 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [CPP](./DSA/Bit-Manipulation/single-number---ii/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-03` |
 | 0049 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
 | 0050 | [124. Sort LL](./DSA/Linked-List/sort-ll) | [CPP](./DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-20` |
-| 0051 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
-| 0052 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [CPP](./DSA/General/trapping-rainwater/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-15` |
-| 0053 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0051 | [217. Stock span problem](./DSA/General/stock-span-problem) | [CPP](./DSA/General/stock-span-problem/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-17` |
+| 0052 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
+| 0053 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [CPP](./DSA/General/trapping-rainwater/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-15` |
+| 0054 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 
 ---
 
