@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **56** | 0 | 56 | 0 | `2026-11-19` |
+| **57** | 0 | 57 | 0 | `2026-11-19` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (56)
+### DSA (57)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -60,19 +60,20 @@ POTD](./DSA/Stack-Queue/implement-queue-using-arrays) | [CPP](./DSA/Stack-Queue/
 | 0041 | [194. Next Smaller Element](./DSA/General/next-smaller-element) | [CPP](./DSA/General/next-smaller-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-14` |
 | 0042 | [864. Number of Greater Elements to the Right](./DSA/General/number-of-greater-elements-to-the-right) | [CPP](./DSA/General/number-of-greater-elements-to-the-right/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-18` |
 | 0043 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [CPP](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-02` |
-| 0044 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
-| 0045 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0046 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-09` |
-| 0047 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
-| 0048 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-18` |
-| 0049 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0050 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [CPP](./DSA/Bit-Manipulation/single-number---ii/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-03` |
-| 0051 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
-| 0052 | [124. Sort LL](./DSA/Linked-List/sort-ll) | [CPP](./DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-20` |
-| 0053 | [217. Stock span problem](./DSA/General/stock-span-problem) | [CPP](./DSA/General/stock-span-problem/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-17` |
-| 0054 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
-| 0055 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [CPP](./DSA/General/trapping-rainwater/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-15` |
-| 0056 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0044 | [42. Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-11-19` |
+| 0045 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
+| 0046 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0047 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-09` |
+| 0048 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
+| 0049 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-18` |
+| 0050 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0051 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [CPP](./DSA/Bit-Manipulation/single-number---ii/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-03` |
+| 0052 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
+| 0053 | [124. Sort LL](./DSA/Linked-List/sort-ll) | [CPP](./DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-20` |
+| 0054 | [217. Stock span problem](./DSA/General/stock-span-problem) | [CPP](./DSA/General/stock-span-problem/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-17` |
+| 0055 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
+| 0056 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [CPP](./DSA/General/trapping-rainwater/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-15` |
+| 0057 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 
 ---
 
