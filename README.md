@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **58** | 0 | 58 | 0 | `2026-11-19` |
+| **59** | 0 | 59 | 0 | `2026-11-20` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (58)
+### DSA (59)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -42,39 +42,40 @@ POTD](./DSA/Stack-Queue/implement-queue-using-arrays) | [CPP](./DSA/Stack-Queue/
 | 0023 | [144. Implement Stack using Arrays](./DSA/Stack-Queue/implement-stack-using-arrays) | [CPP](./DSA/Stack-Queue/implement-stack-using-arrays/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-11-11` |
 | 0024 | [919. Implement stack using Linkedlist](./DSA/Linked-List/implement-stack-using-linkedlist) | [CPP](./DSA/Linked-List/implement-stack-using-linkedlist/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-11-12` |
 | 0025 | [155. Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [CPP](./DSA/Stack-Queue/implement-stack-using-queue/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-11-12` |
-| 0026 | [927. Insert before given node in Doubly Linked List](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0027 | [40. Insert Interval](./DSA/General/insert-interval) | [CPP](./DSA/General/insert-interval/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-08` |
-| 0028 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
-| 0029 | [971. Insert node before (kth node) in Doubly Linked List](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0030 | [985. Insert node before tail in Doubly Linked List](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
-| 0031 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0032 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0033 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0034 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [CPP](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
-| 0035 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-06` |
-| 0036 | [39. Largest rectangle in a histogram](./DSA/General/largest-rectangle-in-a-histogram) | [CPP](./DSA/General/largest-rectangle-in-a-histogram/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-16` |
-| 0037 | [769. Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [CPP](./DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-16` |
-| 0038 | [4. Level Order Traversal](./DSA/Trees/level-order-traversal) | [CPP](./DSA/Trees/level-order-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-11-19` |
-| 0039 | [133. N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [CPP](./DSA/Greedy/n-meetings-in-one-room/solution.cpp) | ⚪ Unspecified | `Greedy` | `2026-11-07` |
-| 0040 | [102. Next Greater Element](./DSA/General/next-greater-element) | [CPP](./DSA/General/next-greater-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-14` |
-| 0041 | [194. Next Smaller Element](./DSA/General/next-smaller-element) | [CPP](./DSA/General/next-smaller-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-14` |
-| 0042 | [864. Number of Greater Elements to the Right](./DSA/General/number-of-greater-elements-to-the-right) | [CPP](./DSA/General/number-of-greater-elements-to-the-right/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-18` |
-| 0043 | [168. Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-11-19` |
-| 0044 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [CPP](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-02` |
-| 0045 | [42. Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-11-19` |
-| 0046 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
-| 0047 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
-| 0048 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-09` |
-| 0049 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
-| 0050 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-18` |
-| 0051 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
-| 0052 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [CPP](./DSA/Bit-Manipulation/single-number---ii/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-03` |
-| 0053 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
-| 0054 | [124. Sort LL](./DSA/Linked-List/sort-ll) | [CPP](./DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-20` |
-| 0055 | [217. Stock span problem](./DSA/General/stock-span-problem) | [CPP](./DSA/General/stock-span-problem/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-17` |
-| 0056 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
-| 0057 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [CPP](./DSA/General/trapping-rainwater/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-15` |
-| 0058 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0026 | [32. Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-11-20` |
+| 0027 | [927. Insert before given node in Doubly Linked List](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0028 | [40. Insert Interval](./DSA/General/insert-interval) | [CPP](./DSA/General/insert-interval/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-08` |
+| 0029 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
+| 0030 | [971. Insert node before (kth node) in Doubly Linked List](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0031 | [985. Insert node before tail in Doubly Linked List](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-07` |
+| 0032 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0033 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0034 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0035 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [CPP](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-06` |
+| 0036 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-06` |
+| 0037 | [39. Largest rectangle in a histogram](./DSA/General/largest-rectangle-in-a-histogram) | [CPP](./DSA/General/largest-rectangle-in-a-histogram/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-16` |
+| 0038 | [769. Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [CPP](./DSA/Linked-List/length-of-loop-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-16` |
+| 0039 | [4. Level Order Traversal](./DSA/Trees/level-order-traversal) | [CPP](./DSA/Trees/level-order-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-11-19` |
+| 0040 | [133. N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [CPP](./DSA/Greedy/n-meetings-in-one-room/solution.cpp) | ⚪ Unspecified | `Greedy` | `2026-11-07` |
+| 0041 | [102. Next Greater Element](./DSA/General/next-greater-element) | [CPP](./DSA/General/next-greater-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-14` |
+| 0042 | [194. Next Smaller Element](./DSA/General/next-smaller-element) | [CPP](./DSA/General/next-smaller-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-14` |
+| 0043 | [864. Number of Greater Elements to the Right](./DSA/General/number-of-greater-elements-to-the-right) | [CPP](./DSA/General/number-of-greater-elements-to-the-right/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-18` |
+| 0044 | [168. Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-11-19` |
+| 0045 | [266. Power Set Bit Manipulation](./DSA/Bit-Manipulation/power-set-bit-manipulation) | [CPP](./DSA/Bit-Manipulation/power-set-bit-manipulation/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-02` |
+| 0046 | [42. Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-11-19` |
+| 0047 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
+| 0048 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-08` |
+| 0049 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-09` |
+| 0050 | [1027. Reverse a Stack](./DSA/Stack-Queue/reverse-a-stack) | [CPP](./DSA/Stack-Queue/reverse-a-stack/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-01` |
+| 0051 | [149. Rotate a LL](./DSA/Linked-List/rotate-a-ll) | [CPP](./DSA/Linked-List/rotate-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-18` |
+| 0052 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-05` |
+| 0053 | [225. Single Number - II](./DSA/Bit-Manipulation/single-number---ii) | [CPP](./DSA/Bit-Manipulation/single-number---ii/solution.cpp) | ⚪ Unspecified | `Bit-Manipulation` | `2026-11-03` |
+| 0054 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-13` |
+| 0055 | [124. Sort LL](./DSA/Linked-List/sort-ll) | [CPP](./DSA/Linked-List/sort-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-20` |
+| 0056 | [217. Stock span problem](./DSA/General/stock-span-problem) | [CPP](./DSA/General/stock-span-problem/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-17` |
+| 0057 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
+| 0058 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [CPP](./DSA/General/trapping-rainwater/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-15` |
+| 0059 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
 
 ---
 
