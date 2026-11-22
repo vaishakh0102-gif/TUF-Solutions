@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **63** | 0 | 63 | 0 | `2026-11-21` |
+| **64** | 0 | 64 | 0 | `2026-11-22` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (63)
+### DSA (64)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -80,6 +80,7 @@ POTD](./DSA/Stack-Queue/implement-queue-using-arrays) | [CPP](./DSA/Stack-Queue/
 | 0061 | [805. Swap Two Numbers](./DSA/General/swap-two-numbers) | [CPP](./DSA/General/swap-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-01` |
 | 0062 | [8. Trapping Rainwater](./DSA/General/trapping-rainwater) | [CPP](./DSA/General/trapping-rainwater/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-15` |
 | 0063 | [1014. Traversal in Linked List](./DSA/Linked-List/traversal-in-linked-list) | [CPP](./DSA/Linked-List/traversal-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-09-30` |
+| 0064 | [204. Zig Zag or Spiral Traversal](./DSA/General/zig-zag-or-spiral-traversal) | [CPP](./DSA/General/zig-zag-or-spiral-traversal/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-22` |
 
 ---
 
